@@ -21,7 +21,7 @@ This project is part of my independent web development portfolio, showcasing my 
 
 ### Mobile Experience
 
-![Maison Bloom Mobile Preview](Screenshots/mobile.png)
+![Maison Bloom Mobile Preview](Screenshots/mobile.png) ![Maison Bloom Mobile Preview](Screenshots/mobile2.png) ![Maison Bloom Mobile Preview](Screenshots/aboutmobile.png)
 
 ## The Problem
 
