@@ -6,7 +6,7 @@
 
 This project is part of my independent web development portfolio, showcasing my approach to building visually appealing, responsive, and user-friendly websites for small businesses.
 
-**[🌐 Live Website Demo](https://YOUR-LIVE-URL.pages.dev)**
+**[🌐 Live Website Demo](maison-bloom-demo.pages.dev )**
 
 ---
 
