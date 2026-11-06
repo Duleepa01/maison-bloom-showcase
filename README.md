@@ -14,7 +14,7 @@ This project is part of my independent web development portfolio, showcasing my 
 
 ![Maison Bloom Desktop Preview](Screenshots/Hero.jpeg)
 ![Maison Bloom Desktop Preview](Screenshots/services.png)
-![Maison Bloom Desktop Preview](Screenshots/about us.png)
+![Maison Bloom Desktop Preview](Screenshots/aboutus.png)
 ![Maison Bloom Desktop Preview](Screenshots/contact.png)
 
 *An elegant, responsive website designed with a focus on visual storytelling, usability, and customer engagement.*
