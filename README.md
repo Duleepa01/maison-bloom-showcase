@@ -12,13 +12,13 @@ This project is part of my independent web development portfolio, showcasing my 
 
 ## Project Preview
 
-![Maison Bloom Desktop Preview](screenshots/Hero.jpeg)
+![Maison Bloom Desktop Preview](Screenshots/Hero.jpeg)
 
 *An elegant, responsive website designed with a focus on visual storytelling, usability, and customer engagement.*
 
 ### Mobile Experience
 
-![Maison Bloom Mobile Preview](screenshots/mobile.png)
+![Maison Bloom Mobile Preview](Screenshots/mobile.png)
 
 ## The Problem
 
